@@ -1,0 +1,14 @@
+[
+    {
+        "date": "2025-10-07",
+        "usage": 4.0,
+        "category": "Domestic",
+        "bill": 0.08
+    },
+    {
+        "date": "2025-10-07",
+        "usage": 4.5,
+        "category": "commercial",
+        "bill": 0.09
+    }
+]
